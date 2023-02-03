@@ -236,3 +236,11 @@ run `journalctl _PID=####` to debug error messages
 # Install MotionEye for Bullseye
 
 Follow instructions on [motioneye-project](https://github.com/motioneye-project/motioneye/wiki/Install-on-Raspbian-Bullseye)
+EXCEPT USE THESE COMMANDS
+sudo wget https://github.com/Motion-Project/motion/releases/download/release-4.5.0/pi_bullseye_motion_4.5.0-1_armhf.deb
+sudo dpkg -i pi_bullseye_motion_4.5.0-1_armhf.deb
+ 
+after finishing, go to browser on computer connected to the same wifi and type in <ipaddress>:8765
+Log in with admin, no password
+Add an admin password and create surveilance username and password. Hit the orange apply button. 
+Log in with new credentials. 
