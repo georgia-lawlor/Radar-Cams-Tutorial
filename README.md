@@ -33,6 +33,7 @@ Adapted from [CCTV Raspberry Pi Based System with Storage using MotionEyeOS](htt
 
 
 # Setting Up Wifi Forwarding Pi
+https://gist.github.com/Konamiman/110adcc485b372f1aff000b4180e2e10
 ## Setup Pi
 1. Download the Raspbian image (Raspbian Lite is fine)
 2. Extract the image from the compressed `.gz` folder - extension should be `.img`
@@ -244,3 +245,7 @@ after finishing, go to browser on computer connected to the same wifi and type i
 Log in with admin, no password
 Add an admin password and create surveilance username and password. Hit the orange apply button. 
 Log in with new credentials. 
+
+
+sudo apt-get install samba-common smbclient samba-common-bin smbclient cifs-utils
+sudo ifconfig eth0 down
