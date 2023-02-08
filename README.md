@@ -248,4 +248,13 @@ Log in with new credentials.
 
 
 sudo apt-get install samba-common smbclient samba-common-bin smbclient cifs-utils
+
 sudo ifconfig eth0 down
+
+interface eth0
+metric 302
+static ip_address=...
+
+interface wlan0
+metric 202
+static ip_address=...
