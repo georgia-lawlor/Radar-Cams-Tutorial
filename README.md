@@ -18,7 +18,7 @@ Adapted from [CCTV Raspberry Pi Based System with Storage using MotionEyeOS](htt
 - Monitor, mouse, and keyboard with HDMI to HDMI/Display Port for setup
 
 ###### Cameras
-- 4x [Raspberry Pi 3B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/) (other models (Zero W/4B/3B+/3B/2B) should work but this is what I used)
+- 5x [Raspberry Pi 3B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/) (other models (Zero W/4B/3B+/3B/2B) should work but this is what I used)
 - 4x [MicroSD Card](https://www.amazon.com/Sandisk-Ultra-Micro-UHS-I-Adapter/dp/B073K14CVB/ref=asc_df_B073K14CVB/?tag=&linkCode=df0&hvadid=309779531175&hvpos=&hvnetw=g&hvrand=10334283790332508896&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007908&hvtargid=pla-374265929034&region_id=373786&ref=&adgrpid=62412137260&th=1) - at least 8GB
 - 4x MakerFocus Fisheye Camera 5mp IR-CUT Night-vision Camera for Raspberry Pi4B/3B+/3B/2B
 [MakerFocus](https://www.makerfocus.com/collections/rpi-cameras/products/fisheye-camera-5mp-ir-cut-night-vision-compatible-for-raspberry-pi4b-3b-3b-2b) or [Amazon](https://www.amazon.com/gp/product/B07DPNDP6R/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
